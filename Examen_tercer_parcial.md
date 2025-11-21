@@ -1,4 +1,4 @@
-Javier Edgardo Escobar Portillo
+# Javier Edgardo Escobar Portillo
 15934
 Adaptabilidad, pensamiento critico, Resiliente
 Hablar ingles de manera comprensiva. programar en python, c++ y html. uso herramientas de edicion de video.
