@@ -39,3 +39,5 @@ qué?
     La escasez de explicaciones en codigo. seria mas eficiente explicar a conciencia como piensa una computadora para lograr que ellos la entiendan tambien
 16. Escribe una breve reflexión final sobre tu experiencia este semestre en la materia
     Logre cosas que no crei lograr hasta semestres altos que es adjuntar archivos de mi computadora al internet desde la terminal. lo cual es algo que me encanto, la recursaria de no ser que no quiero perder otro año en la uni
+
+# Se acabo el semestre!, Feliz navidad!
